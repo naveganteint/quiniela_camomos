@@ -1,0 +1,10 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
